@@ -1,0 +1,22 @@
+{
+  "name": "geometry-library",
+  "version": "0.1.0",
+  "description": "Utility functions for the computation of geometric data on the surface of the Earth.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praktwerk/geometry-library.git"
+  },
+  "author": "Krzysztof Bergendahl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praktwerk/geometry-library/issues"
+  },
+  "homepage": "https://github.com/praktwerk/geometry-library#readme",
+  "dependencies": {
+    "@mapbox/polyline": "^0.2.0"
+  }
+}
