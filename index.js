@@ -1,3 +1,3 @@
 geometry = require('./geometry');
 
-exports = geometry;
+module.exports = geometry;
